@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+## About Me
 
-Education
+## Education
 
-Experience
+## Experience
 
-Interests
+## Interests
 
-Credit
+## Credit
