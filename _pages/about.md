@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Mike McIntire and I am a Computational Geoscientist and Data Scientist. I currently work at a small startup called Onward. At Onward, I work at the intersection of geoscience and technology. I currently work on the [Challenges](https://thinkonward.com/app/c/challenges) platform building interesting data science challenges for our users. I am most passionate about using data science to solve problems in the geosciences. I am also passionate about teaching and mentoring. I have taught several courses at Kansas State University and I am currently a mentor for the [Data Science for All](https://www.datascience4all.org/) program.
+Hi! My name is Mike McIntire and I am a Computational Geoscientist and Data Scientist. I currently work at a small startup called Onward. At Onward, I work at the intersection of geoscience and technology. I currently work on the [Challenges](https://thinkonward.com/app/c/challenges) platform building interesting data science challenges for our diverse and talented users. I am most passionate about using data science to solve problems in the geosciences.
 
 ## Education
 
@@ -16,6 +16,7 @@ I hold a B.S. in Geoscience from Kansas State University, a M.S. in Geoscience f
 
 ## Experience
 
+I have a decade of experience in various industries including oil/gas, insurance, and banking. I've spent most my career in the oil/gas industry working as a Senior Geophysicist for Occidental Petroleum Corporation (formerly Anadarko Petroleum Corporation). I have experience in seismic interpretation, seismic processing, seismic inversion, and machine learning. I have also worked as a Data Scientist for a small startup called Onward. At Onward, I worked on the [Challenges](https://thinkonward.com/app/c/challenges) platform building interesting data science challenges for our diverse and talented users.
 ## Interests
 
 ## Credit
