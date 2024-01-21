@@ -16,7 +16,7 @@ I hold a B.S. in Geoscience from Kansas State University, a M.S. in Geoscience f
 
 ## Experience
 
-I have a decade of experience in various industries including oil/gas, insurance, and banking. I've spent most my career in the oil/gas industry working as a Senior Geophysicist for Occidental Petroleum Corporation (formerly Anadarko Petroleum Corporation). I have experience in seismic interpretation, seismic processing, seismic inversion, and machine learning. I have also worked as a Data Scientist for a small startup called Onward. At Onward, I work on the [Challenges](https://thinkonward.com/app/c/challenges) platform building interesting data science challenges for our diverse and talented users.
+I have a decade of experience in various industries including oil/gas, insurance, and banking. Most of my career has been spent in the oil/gas industry working as a Senior Geophysicist for Occidental Petroleum Corporation (formerly Anadarko Petroleum Corporation). From this role I have experience in seismic interpretation, seismic processing, seismic inversion, and machine learning. I currently work as a Data Scientist for a small startup called Onward. At Onward, I work on the [Challenges](https://thinkonward.com/app/c/challenges) platform building interesting data science challenges for our diverse and talented users.
 
 ## Interests
 
