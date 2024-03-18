@@ -17,62 +17,48 @@ Education
 Work experience
 ======
 * Onward - Data Scientist
-  * Dates: 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Dates: May 2023 - Present
 
 * Commerce Bank - Data Scientist
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: October 2022 - May 2023
  
 * Farmers Insurance - Data Scientist
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: November 2021 - October 2022
  
 * Occidental Petroleum Corporation - Senior Geophysicist
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: August 2019 - November 2021
  
 * Anadarko Petroleum Corporation - Geophysicist II
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: September 2014 - August 2019
  
 * Anadarko Petroleum Corporation - Geoscience Intern
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: May 2014 - September 2014
  
 * Kansas State University - Graduate Teaching Assistant
-  * Dates: 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Dates: August 2012 - May 2014
   
 Skills
 ======
 * Python
+* SQL
 * Machine Learning
+* Image Processing
+* Synthetic Data Generation
 * Reporting/Analytics
-* 
+* Geology
+* Geophysics
 * Seismic Interpretation
 * Seismic Inversion
-* Well Log Interpretation
 
-Publications
+Tools
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* AWS SageMaker
+* Snowflake
+* PowerBI
+* Tableau
+* Git
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentor - Big Brothers Big Sisters
+* Maintainer - Awesome Open Geoscience Repo
