@@ -1,11 +1,11 @@
 # main links links
 main:
-
-  - title: "Resume"
-    url: /resume/ 
   
   - title: "Portfolio"
-    url: /portfolio/      
+    url: /portfolio/     
+
+  - title: "Personal Projects"
+    url: /resume/ 
         
-  - title: "Thing I Learned"
+  - title: "Waiver Raider Blog"
     url: /til/
