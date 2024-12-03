@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Mike McIntire, PG - About Me"
+title: "Mike McIntire, PG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+/n/n/n
 
 Summary
 ======
