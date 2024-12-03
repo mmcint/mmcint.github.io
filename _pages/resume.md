@@ -20,29 +20,22 @@ Education
 
 Work experience
 ======
-* ThinkOnward - Data Scientist
-  * Dates: May 2023 - September 2024
-  * Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results from data science challenges using PowerBI, Plotly Dash, and Streamlit.
-* Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
-* Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.
-* Lead team of scientists to develop a geophysics specific foundational model using Vision Transformers and Masked Auto-encoders methodology. Utilize Pytorch, Numpy, and HuggingFace Transformers to build proprietary masking method that increases model performance 3 times over existing models. 
-* Enhance the volume of 3D synthetic seismic data generation by 50% by parallelizing Python code and leveraging AWS Batch. 
-* Increase productivity of scientists in Shell by 25% by authoring a Python script that clusters similar thin section images and filters out of focus images.
+**ThinkOnward - Data Scientist (May 2023 - September 2024)**
+  * Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using PowerBI, Plotly Dash, and Streamlit.
+  * Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
+  * Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.
+  * Lead team of scientists to develop a geophysics specific foundational model using Vision Transformers and Masked Auto-encoders methodology. Utilize Pytorch, Numpy, and       HuggingFace Transformers to build proprietary masking method that increases model performance 3 times over existing models. 
+  * Enhance the volume of 3D synthetic seismic data generation by 50% by parallelizing Python code and leveraging AWS Batch. 
+  * Increase productivity of scientists in Shell by 25% by authoring a Python script that clusters similar thin section images and filters out of focus images.
 
-* Commerce Bank - Data Scientist
-  * Dates: October 2022 - May 2023
- 
-* Farmers Insurance - Data Scientist
-  * Dates: November 2021 - October 2022
- 
-* Occidental Petroleum Corporation - Senior Geophysicist
-  * Dates: August 2019 - November 2021
- 
-* Anadarko Petroleum Corporation - Geophysicist II
-  * Dates: September 2014 - August 2019
- 
-* Anadarko Petroleum Corporation - Geoscience Intern
-  * Dates: May 2014 - September 2014
+**Commerce Bank - Data Scientist (October 2022 - May 2023)**
+  * Managed relationships with the fraud teams and communicated concise updates to primary stakeholders.
+  * Leveraged PowerBI to build a model performance dashboard that helped the consumer fraud team identify 2 million dollars in fraudulent transactions. Reduced the number of     false positives and false negatives by optimizing the model’s F1 score.
+  * Collaborated with consumer credit team and leveraged agile methodology to build a credit card acquisition response model with an increased response rate of 30%. 
+  * Extracted consumer credit data from SQL databases and transformed data into a weekly report for keep stakeholders using SAS.
+    
+* Farmers Insurance - Data Scientist (November 2021 - October 2022)
+* 
  
 * Kansas State University - Graduate Teaching Assistant
   * Dates: August 2012 - May 2014
