@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Mike McIntire, PG"
-excerpt: "About me"
+title:
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
