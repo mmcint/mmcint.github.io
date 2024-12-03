@@ -4,11 +4,11 @@ main:
   - title: "Portfolio"
     url: /portfolio/     
 
-  - title: "Personal Projects"
-    url: /projects/ 
+  # - title: "Personal Projects"
+  #   url: /projects/ 
         
-  - title: "Waiver Raider"
-    url: /waiver-raider/
+  # - title: "Waiver Raider"
+  #   url: /waiver-raider/
 
-  -title: "Contact Me"
-    url: /contact/
+  # -title: "Contact Me"
+  #   url: /contact/
