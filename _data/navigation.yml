@@ -5,7 +5,10 @@ main:
     url: /portfolio/     
 
   - title: "Personal Projects"
-    url: /resume/ 
+    url: /projects/ 
         
-  - title: "Waiver Raider Blog"
-    url: /til/
+  - title: "Waiver Raider"
+    url: /waiver-raider/
+
+  -title: "Contact Me"
+    url: /contact/
