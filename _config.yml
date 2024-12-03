@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Kansas City"
-title                    : "Mike McIntire, PG"
+title                    : "Mike McIntire"
 title_separator          : "-"
 name                     : &name "Mike McIntire"
 description              : &description "personal description"
