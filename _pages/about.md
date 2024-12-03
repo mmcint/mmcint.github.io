@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-/n/n/n
+<br />
+<br />
 
 Summary
 ======
