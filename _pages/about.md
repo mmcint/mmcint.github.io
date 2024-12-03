@@ -16,7 +16,7 @@ Analytics professional offering a decade of progressive experience across the en
 Work experience
 ======
 **ThinkOnward - Data Scientist (May 2023 - September 2024)**
-* Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using PowerBI, Plotly Dash, and Streamlit.
+* Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using Plotly Dash and Streamlit.
 * Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
 * Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.
 * Lead team of scientists to develop a geophysics specific foundational model using Vision Transformers and Masked Auto-encoders methodology. Utilize Pytorch, Numpy, and       HuggingFace Transformers to build proprietary masking method that increases model performance 3 times over existing models. 
