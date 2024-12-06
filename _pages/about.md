@@ -15,6 +15,11 @@ Analytics professional offering a decade of progressive experience across the en
 
 Work experience
 ======
+**Security Benefit - Lead Data Scientist (September 2024 - Present)
+* Lead team of data scientists building products that affect all parts of the organization.
+* Utilized unsupervised machine learning techniques to build financial advisor profiles for improved marketing campaigns.
+* Developed machine learning model using Python and XGBoost to predict financial advisor profiles for prospective advisors.
+
 **ThinkOnward - Data Scientist (May 2023 - September 2024)**
 * Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using Plotly Dash and Streamlit.
 * Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
