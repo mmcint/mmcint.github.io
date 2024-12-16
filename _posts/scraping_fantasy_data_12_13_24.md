@@ -1,6 +1,6 @@
 ---
 title: 'Scraping Fantasy Football Stats'
-date: 2024-12-13
+date: 2024-12-16
 permalink: /posts/2024/12/blog-post-1/
 tags:
   - web scraping
@@ -8,7 +8,7 @@ tags:
   - Sports Analytics
 ---
 
-## Scraping Fantasy Data - December 13th, 2024
+## Scraping Fantasy Data - December 16th, 2024
 
 This is a notebook that will scrape advanced stats for offensive fantasy football positions. The website used to scrape is FantasyPros. There are some additional metrics calculated after the scraping of the data. The intent is for this to be the first of many notebooks shared analyzing key fantasy football metrics. I intend to provide commentary in the notebooks to catelogue my thoughts and analysis.
 
