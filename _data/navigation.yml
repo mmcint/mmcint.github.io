@@ -10,5 +10,5 @@ main:
   - title: "Waiver Raider"
     url: /waiver-raider/
 
-  -title: "Contact Me"
-    url: /contact/
+  # -title: "Contact Me"
+  #   url: /contact/
