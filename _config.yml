@@ -181,7 +181,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  waiver-raider:
+  waiver-raiders:
     output: true
     permalink: /:collection/:path/
   contact:
