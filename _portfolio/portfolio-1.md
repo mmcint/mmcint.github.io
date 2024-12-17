@@ -41,3 +41,5 @@ gom_df = gom_df.rename(columns={'% Share': 'pct_share'})
 gom_df = gom_df.rename(columns={'Net Bid': 'net_bid'})
 gom_df = gom_df.rename(columns={'Total Bid': 'total_bid'})
 ```
+
+![test image](images/image-alignment-580x300.jpg)
