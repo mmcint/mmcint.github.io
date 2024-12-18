@@ -4,8 +4,6 @@ excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
 ### Introduction: 
 
 The Gulf of Mexico (GOM) is considered one of the most prolific oil and gas basins in the world. The basin has produced to date more than 5.2 Billion Barrels of Oil Equivalent (BBOE). The GOM is divided into protraction areas and these protraction areas are further broken into 3 mile by 3 mile lease blocks. The blocks are controled the Beauru of Ocean and Energy Managment. Oil and gas companies with a license to operate in the GOM can bid on available leases in yearly lease sales. Lease terms vary from 5-10 years depending on water depth.
@@ -42,4 +40,4 @@ gom_df = gom_df.rename(columns={'Net Bid': 'net_bid'})
 gom_df = gom_df.rename(columns={'Total Bid': 'total_bid'})
 ```
 
-![testimage](../images/image-alignment-580x300.jpg)
+![testimage](../images/image-alignment-1200x4002.jpg)
