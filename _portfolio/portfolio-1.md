@@ -40,4 +40,4 @@ gom_df = gom_df.rename(columns={'Net Bid': 'net_bid'})
 gom_df = gom_df.rename(columns={'Total Bid': 'total_bid'})
 ```
 
-! [testimage](image-alignment-1200x4002.jpg)
+![testimage](cats.png)
