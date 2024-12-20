@@ -1,0 +1,620 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Summary &#8212; Mike McIntire Portfolio and Blog</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Markdown Files" href="portfolio/eda.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="#">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/me.png" class="logo__image only-light" alt="Mike McIntire Portfolio and Blog - Home"/>
+    <img src="_static/me.png" class="logo__image only-dark pst-js-only" alt="Mike McIntire Portfolio and Blog - Home"/>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1 current active">
+                <a class="reference internal" href="#">
+                    Summary
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Portfolio</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="portfolio/eda.html">Markdown Files</a></li>
+<li class="toctree-l1"><a class="reference internal" href="portfolio/supervised.html">Content with notebooks</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Waiver Raiders Blog</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="posts/post1.html">Content with notebooks</a></li>
+<li class="toctree-l1"><a class="reference internal" href="posts/post2.html">Content with notebooks</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/mmcint/mmcint.github.io.git" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/mmcint/mmcint.github.io.git/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/intro.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Summary</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Summary</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#work-experience">Work experience</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#education">Education</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#certifications">Certifications</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#skills">Skills</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#tools">Tools</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#service-and-leadership">Service and leadership</a><ul class="visible nav section-nav flex-column">
+</ul>
+</li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="summary">
+<h1>Summary<a class="headerlink" href="#summary" title="Link to this heading">#</a></h1>
+<p>Analytics professional offering a decade of progressive experience across the energy, insurance, finance, and banking industries. Skilled in leading projects that leverage expertise in Python, SQL, machine learning, statistical analysis, geospatial inference, PowerBI and git. Drives informed decision making through compelling data visualizations and thoughtful data stories. Passionate about leveraging diverse skills to reveal hidden patterns and narratives within data.</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="work-experience">
+<h1>Work experience<a class="headerlink" href="#work-experience" title="Link to this heading">#</a></h1>
+<p><strong>Security Benefit - Lead Data Scientist (September 2024 - Present)</strong></p>
+<ul class="simple">
+<li><p>Lead team of data scientists building products that affect all parts of the organization.</p></li>
+<li><p>Utilized unsupervised machine learning techniques to build financial advisor profiles for improved marketing campaigns.</p></li>
+<li><p>Developed machine learning model using Python and XGBoost to predict financial advisor profiles for prospective advisors.</p></li>
+</ul>
+<p><strong>ThinkOnward - Data Scientist (May 2023 - September 2024)</strong></p>
+<ul class="simple">
+<li><p>Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using Plotly Dash and Streamlit.</p></li>
+<li><p>Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.</p></li>
+<li><p>Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.</p></li>
+<li><p>Lead team of scientists to develop a geophysics specific foundational model using Vision Transformers and Masked Auto-encoders methodology. Utilize Pytorch, Numpy, and       HuggingFace Transformers to build proprietary masking method that increases model performance 3 times over existing models.</p></li>
+<li><p>Enhance the volume of 3D synthetic seismic data generation by 50% by parallelizing Python code and leveraging AWS Batch.</p></li>
+<li><p>Increase productivity of scientists in Shell by 25% by authoring a Python script that clusters similar thin section images and filters out of focus images.</p></li>
+</ul>
+<p><strong>Commerce Bank - Data Scientist (October 2022 - May 2023)</strong></p>
+<ul class="simple">
+<li><p>Managed relationships with the fraud teams and communicated concise updates to primary stakeholders.</p></li>
+<li><p>Leveraged PowerBI to build a model performance dashboard that helped the consumer fraud team identify 2 million dollars in fraudulent transactions. Reduced the number of     false positives and false negatives by optimizing the model’s F1 score.</p></li>
+<li><p>Collaborated with consumer credit team and leveraged agile methodology to build a credit card acquisition response model with an increased response rate of 30%.</p></li>
+<li><p>Extracted consumer credit data from SQL databases and transformed data into a weekly report for keep stakeholders using SAS.</p></li>
+</ul>
+<p><strong>Farmers Insurance - Data Scientist (November 2021 - October 2022)</strong></p>
+<ul class="simple">
+<li><p>Improved profitability of business insurance book by identifying policies with high risk of wildfire using ArcGIS and communicating results via PowerBI.</p></li>
+<li><p>Leveraged AWS Sagemaker environment to build and test a policy pricing model using Python and XGBoost. Collaborate with team on GitHub to share Python code.</p></li>
+<li><p>Built an ETL pipeline using Alteryx that extracted policy data from Snowflake SQL database into PowerBI. Leverage DAX and PowerQuery to clean and transform data for          visualization.</p></li>
+<li><p>Generated policy pricing maps by using geospatial analytics tools (GeoPandas and GDAL) and 3rd party customer data.</p></li>
+</ul>
+<p><strong>Occidental/Anadarko Petroleum Corporation - Senior Geophysicist (May 2014 - November 2021)</strong></p>
+<ul class="simple">
+<li><p>Collaborated with a multidisciplinary team of engineers and geoscientists to evaluate prospects of interest in the Gulf of Mexico and regularly communicating progress to     executives.</p></li>
+<li><p>Developed 3D geologic model for hydrocarbon producing asset in the western Gulf of Mexico using 3D seismic surveys, Multibeam sonar, and well log data. Work allowed          company to extend production of the asset and avoid $120 million dollars in abandonment costs.</p></li>
+<li><p>Led a team of subject matter experts to identify and develop updated geophysical technical workflows and best practices
+following Occidental Petroleum’s 2019 acquisition    of Anadarko Petroleum.</p></li>
+<li><p>Authored yearly technical reports to federal agencies (SEC, BOEM, BSEE) that justified hydrocarbon reserves and provided
+insight into geoscience workflows.</p></li>
+<li><p>Orchestrated a project to invest four million dollars for federal leases in the central Gulf of Mexico by investigating multiple sensor data sources and compiling a          concise story for executives. Leveraged Monte Carlo simulation to examine project risk and economics.</p></li>
+<li><p>Executed a successful development well and delivered 25% rate or return on initial investment by qualifying oil reserves using seismic and well data analysis.</p></li>
+</ul>
+<p><strong>Kansas State University - Graduate Teaching Assistant (August 2012 - May 2014)</strong></p>
+<ul class="simple">
+<li><p>Worked with the department head to create lesson plans and write exams for Introduction to Geology lab sections.</p></li>
+<li><p>Scheduled lab times and office hours for seven graduate teaching assistants. Review weekly lessons and assignments with graduate teaching assistants.</p></li>
+<li><p>Taught three sections of Introduction to Geology lab with 25 students per section.</p></li>
+<li><p>Spent 15 hours per week grading lab assignments and exams for 75 students. Provided 5 hours of tutoring per week to students.</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="education">
+<h1>Education<a class="headerlink" href="#education" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>B.S. in Geoscience, Kansas State University, 2012</p></li>
+<li><p>M.S. in Geoscience, Kansas State University, 2014</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="certifications">
+<h1>Certifications<a class="headerlink" href="#certifications" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>State of Texas Licensed Professional Geoscientist (#15087)</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="skills">
+<h1>Skills<a class="headerlink" href="#skills" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>Python</p></li>
+<li><p>SQL</p></li>
+<li><p>Machine Learning</p></li>
+<li><p>Deep Learning</p></li>
+<li><p>Image Processing</p></li>
+<li><p>Synthetic Data Generation</p></li>
+<li><p>Reporting/Analytics</p></li>
+<li><p>Geology</p></li>
+<li><p>Geophysics</p></li>
+<li><p>Seismic Interpretation</p></li>
+<li><p>Seismic Inversion</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="tools">
+<h1>Tools<a class="headerlink" href="#tools" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>AWS SageMaker</p></li>
+<li><p>Snowflake</p></li>
+<li><p>PowerBI</p></li>
+<li><p>Git</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="service-and-leadership">
+<h1>Service and leadership<a class="headerlink" href="#service-and-leadership" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p>Mentor - Big Brothers Big Sisters</p></li>
+<li><p>Maintainer - Awesome Open Geoscience Repo</p></li>
+</ul>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="right-next"
+       href="portfolio/eda.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Markdown Files</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Summary</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#work-experience">Work experience</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#education">Education</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#certifications">Certifications</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#skills">Skills</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#tools">Tools</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#service-and-leadership">Service and leadership</a><ul class="visible nav section-nav flex-column">
+</ul>
+</li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Mike McIntire
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script defer src="_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
