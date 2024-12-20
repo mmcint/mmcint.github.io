@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Portfolio
+    chapters:
+    - file: portfolio/eda.md
+    - file: portfolio/supervised.ipynb
+  - caption: Waiver Raiders Blog
+    chapters:
+    - file: posts/post1.ipynb
+    - file: posts/post2.ipynb
