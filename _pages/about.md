@@ -1,49 +1,90 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<br />
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Summary
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Analytics professional offering a decade of progressive experience across the energy, insurance, finance, and banking industries. Skilled in leading projects that leverage expertise in Python, SQL, machine learning, statistical analysis, geospatial inference, PowerBI and git. Drives informed decision making through compelling data visualizations and thoughtful data stories. Passionate about leveraging diverse skills to reveal hidden patterns and narratives within data.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Work experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Security Benefit - Lead Data Scientist (September 2024 - Present)**
+* Lead team of data scientists building products that affect all parts of the organization.
+* Utilized unsupervised machine learning techniques to build financial advisor profiles for improved marketing campaigns.
+* Developed machine learning model using Python and XGBoost to predict financial advisor profiles for prospective advisors.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**ThinkOnward - Data Scientist (May 2023 - September 2024)**
+* Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using Plotly Dash and Streamlit.
+* Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
+* Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.
+* Lead team of scientists to develop a geophysics specific foundational model using Vision Transformers and Masked Auto-encoders methodology. Utilize Pytorch, Numpy, and       HuggingFace Transformers to build proprietary masking method that increases model performance 3 times over existing models. 
+* Enhance the volume of 3D synthetic seismic data generation by 50% by parallelizing Python code and leveraging AWS Batch. 
+* Increase productivity of scientists in Shell by 25% by authoring a Python script that clusters similar thin section images and filters out of focus images.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**Commerce Bank - Data Scientist (October 2022 - May 2023)**
+* Managed relationships with the fraud teams and communicated concise updates to primary stakeholders.
+* Leveraged PowerBI to build a model performance dashboard that helped the consumer fraud team identify 2 million dollars in fraudulent transactions. Reduced the number of     false positives and false negatives by optimizing the model’s F1 score.
+* Collaborated with consumer credit team and leveraged agile methodology to build a credit card acquisition response model with an increased response rate of 30%. 
+* Extracted consumer credit data from SQL databases and transformed data into a weekly report for keep stakeholders using SAS.
+    
+**Farmers Insurance - Data Scientist (November 2021 - October 2022)**
+* Improved profitability of business insurance book by identifying policies with high risk of wildfire using ArcGIS and communicating results via PowerBI.
+* Leveraged AWS Sagemaker environment to build and test a policy pricing model using Python and XGBoost. Collaborate with team on GitHub to share Python code.
+* Built an ETL pipeline using Alteryx that extracted policy data from Snowflake SQL database into PowerBI. Leverage DAX and PowerQuery to clean and transform data for          visualization.
+* Generated policy pricing maps by using geospatial analytics tools (GeoPandas and GDAL) and 3rd party customer data.
 
-**Markdown generator**
+**Occidental/Anadarko Petroleum Corporation - Senior Geophysicist (May 2014 - November 2021)**
+* Collaborated with a multidisciplinary team of engineers and geoscientists to evaluate prospects of interest in the Gulf of Mexico and regularly communicating progress to     executives.
+* Developed 3D geologic model for hydrocarbon producing asset in the western Gulf of Mexico using 3D seismic surveys, Multibeam sonar, and well log data. Work allowed          company to extend production of the asset and avoid $120 million dollars in abandonment costs. 
+* Led a team of subject matter experts to identify and develop updated geophysical technical workflows and best practices  following Occidental Petroleum’s 2019 acquisition    of Anadarko Petroleum. 
+* Authored yearly technical reports to federal agencies (SEC, BOEM, BSEE) that justified hydrocarbon reserves and provided  insight into geoscience workflows. 
+* Orchestrated a project to invest four million dollars for federal leases in the central Gulf of Mexico by investigating multiple sensor data sources and compiling a          concise story for executives. Leveraged Monte Carlo simulation to examine project risk and economics.
+* Executed a successful development well and delivered 25% rate or return on initial investment by qualifying oil reserves using seismic and well data analysis.
+ 
+**Kansas State University - Graduate Teaching Assistant (August 2012 - May 2014)**
+* Worked with the department head to create lesson plans and write exams for Introduction to Geology lab sections.
+* Scheduled lab times and office hours for seven graduate teaching assistants. Review weekly lessons and assignments with graduate teaching assistants.
+* Taught three sections of Introduction to Geology lab with 25 students per section.
+* Spent 15 hours per week grading lab assignments and exams for 75 students. Provided 5 hours of tutoring per week to students.
+ 
+Education
+======
+* B.S. in Geoscience, Kansas State University, 2012
+* M.S. in Geoscience, Kansas State University, 2014
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Certifications
+======
+* State of Texas Licensed Professional Geoscientist (#15087)
+  
+Skills
+======
+* Python
+* SQL
+* Machine Learning
+* Deep Learning
+* Image Processing
+* Synthetic Data Generation
+* Reporting/Analytics
+* Geology
+* Geophysics
+* Seismic Interpretation
+* Seismic Inversion
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Tools
+======
+* AWS SageMaker
+* Snowflake
+* PowerBI
+* Git
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Service and leadership
+======
+* Mentor - Big Brothers Big Sisters
+* Maintainer - Awesome Open Geoscience Repo
