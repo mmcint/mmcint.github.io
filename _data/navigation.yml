@@ -5,10 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Portfolio"
+  - title: "My Portfolio"
     url: /portfolio/
 
-  - title: "Waiver Raider"
+  - title: "Waiver Raiders"
     url: /waiver-raider/    
 
 #   - title: "Teaching"
