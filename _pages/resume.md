@@ -3,9 +3,7 @@ permalink: /resume/
 title: "My Resume"
 excerpt: 
 author_profile: true
-redirect_from: 
-  - /resume/
-  - /resume.html
+
 ---
 <br />
 
