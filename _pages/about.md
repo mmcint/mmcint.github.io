@@ -18,13 +18,21 @@ The pandemic presented a unique opportunity for self-growth. After exhausting th
 Since transitioning into data science, I’ve had the privilege of working with several fascinating companies, applying my skills to tackle diverse challenges. This portfolio includes not only projects from my bootcamp but also select work from my professional experiences, demonstrating my capabilities in real-world scenarios.
 
 # My Open Source Projects
+<br />
 explaination here
+<br />
 [![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true)](https://github.com/thinkonward/geophysical-foundation-model)
+<br />
 explaination here
+<br />
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
+<br />
 explaination here
+<br />
 [![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false)](https://github.com/thinkonward/section-seeker)
+<br />
 explaination here
+<br />
 [![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false)](https://github.com/thinkonward/challenges)
 
 # My HuggingFace🤗  Contributions
