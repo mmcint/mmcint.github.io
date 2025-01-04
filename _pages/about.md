@@ -20,15 +20,15 @@ Since transitioning into data science, I’ve had the privilege of working with 
 # My Open Source Projects
 <br />
 explaination here
-<br />
+
 [![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true)](https://github.com/thinkonward/geophysical-foundation-model)
-<br />
+
 explaination here
-<br />
+
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
-<br />
+
 explaination here
-<br />
+
 [![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false)](https://github.com/thinkonward/section-seeker)
 <br />
 explaination here
