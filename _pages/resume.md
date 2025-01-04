@@ -4,8 +4,8 @@ title: "My Resume"
 excerpt: 
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /resume/
+  - /resume.html
 ---
 <br />
 
