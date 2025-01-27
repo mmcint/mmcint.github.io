@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br />
-
 Hi! My name is Mike McIntire, and I appreciate you taking the time to check out my personal website. I’m a geoscientist by education who transitioned into data science. This website highlights my journey, skills, and accomplishments in the field.
 
 My career began as a geophysicist, where I built three-dimensional models of the Earth using advanced quantitative methods. During this time, I developed a growing interest in Python programming and machine learning. What started as a curiosity turned into a passion, as I began acquiring coding skills and exploring the potential of machine learning to solve complex problems.
