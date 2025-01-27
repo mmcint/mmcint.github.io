@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mike McIntire's Personal Website"
+title                    : "Mike McIntire, PG"
 title_separator          : "-"
-name                     : &name "Mike McIntire"
+name                     : &name "Mike McIntire, PG"
 description              : &description "Data Scientist | Computational Geoscientist"
 url                      : https://mmcint.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
