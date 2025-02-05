@@ -17,21 +17,15 @@ The pandemic presented a unique opportunity for self-growth. After exhausting th
 Since transitioning into data science, I’ve had the privilege of working with several fascinating companies, applying my skills to tackle diverse challenges. This portfolio includes not only projects from my bootcamp but also select work from my professional experiences, demonstrating my capabilities in real-world scenarios.
 
 # My Open Source Projects
-explaination of the thinkonward projects
+During my time at ThinkOnward, I had the opportunity to work on numerous innovative projects. We were able to open source some of the projects, including the Geophysical Foundation Model (GFM). This is an innovative model that builds upon the ViT MAE architecture, but masks geophysical traces, rather than pixels.
 
-explaination here
+I also worked on the Challenges platform, designing geodata science challenges for our diverse and innovative community of experts.
 
 [![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true)](https://github.com/thinkonward/geophysical-foundation-model)
 
-explaination here
-
 [![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
 
-explaination here
-
 [![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false)](https://github.com/thinkonward/section-seeker)
-
-explaination here
 
 [![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false)](https://github.com/thinkonward/challenges)
 
