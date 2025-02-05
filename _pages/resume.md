@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: "My Resume"
+title: "Summary"
 excerpt: 
 author_profile: true
 
