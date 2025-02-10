@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Mike is an analytics professional offering a decade of progressive experience across the energy, insurance, finance, and banking industries. Skilled in leading projects that leverage expertise in Python, SQL, machine learning, statistical analysis, geospatial inference, PowerBI and git. Drives informed decision making through compelling data visualizations and thoughtful data stories. Passionate about leveraging diverse skills to reveal hidden patterns and narratives within data.
+Analytics professional offering a decade of progressive experience across the energy, insurance, finance, and banking industries. Skilled in leading projects that leverage expertise in Python, SQL, machine learning, statistical analysis, geospatial inference, PowerBI and git. Drives informed decision making through compelling data visualizations and thoughtful data stories. Passionate about leveraging diverse skills to reveal hidden patterns and narratives within data.
 
 Work experience
 ======
