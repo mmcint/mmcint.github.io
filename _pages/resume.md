@@ -10,7 +10,7 @@ Analytics professional offering a decade of progressive experience across the en
 
 Work experience
 ======
-**Security Benefit - Principal Data Scientist (September 2024 - Present)**
+**Security Benefit - Lead Data Scientist (September 2024 - Present)**
 * Lead team of data scientists building products that affect all parts of the organization.
 * Utilized unsupervised machine learning techniques to build financial advisor profiles for improved marketing campaigns.
 * Developed machine learning model using Python and XGBoost to predict financial advisor profiles for prospective advisors.
