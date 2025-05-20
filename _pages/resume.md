@@ -6,16 +6,19 @@ author_profile: true
 
 ---
 
-Analytics professional offering a decade of progressive experience across the energy, insurance, finance, and banking industries. Skilled in leading projects that leverage expertise in Python, SQL, machine learning, statistical analysis, geospatial inference, PowerBI and git. Drives informed decision making through compelling data visualizations and thoughtful data stories. Passionate about leveraging diverse skills to reveal hidden patterns and narratives within data.
+Innovative data science leader with 10+ years of experience developing and deploying advanced AI, machine learning, and large language model solutions across diverse industries. Expert in building and operationalizing NLP applications, generative AI, and predictive analytics using Python, SQL, and modern cloud platforms. Proven ability to lead teams in designing scalable AI systems, crafting impactful data visualizations, and translating complex data into actionable business insights. Skilled at leveraging LLMs and state-of-the-art AI techniques to reveal patterns, automate processes, and drive strategic decision-making.
 
 Work experience
 ======
 **Security Benefit - Principal Data Scientist (September 2024 - Present)**
-* Lead team of data scientists building products that affect all parts of the organization.
-* Utilized unsupervised machine learning techniques to build financial advisor profiles for improved marketing campaigns.
-* Developed machine learning model using Python and XGBoost to predict financial advisor profiles for prospective advisors.
+* Directed a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
+* Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns.
+* Developed predictive models using Python and XGBoost to forecast financial advisor propensity to sell specific products, resulting in measurable improvements in marketing efficiency and conversion rates.
+* Built an AI-powered call analytics platform utilizing call center data and audio transcripts to provide actionable insights into call center performance; implemented sentiment analysis and call summarization models using HuggingFace, PyTorch, and DistilRoberta.
+* Led the evaluation and adoption of an end-to-end data science platform (DataRobot), employing SQL and Python to extract, transform, and analyze financial advisor sales data for strategic decision-making.
+* Collaborated with HR and leadership to define the data scientist role, review applications, and conduct interviews, contributing to the growth and capability of the data science team.
 
-**ThinkOnward - Data Scientist (May 2023 - September 2024)**
+**ThinkOnward - Senior Data Scientist (May 2023 - September 2024)**
 * Collaborate with customers to understand business problems and develop machine learning challenges that accomplish the needs of their team. Communicate technical results     from data science challenges using Plotly Dash and Streamlit.
 * Oversee the maintenance and general improvement of open source geoscience packages using GitHub and git workflow.
 * Improve user experience by developing interactive documentation on GitHub for open source Python package that optimizes drilling rig schedules.
