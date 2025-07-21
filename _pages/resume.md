@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Innovative data science leader with 10+ years of experience developing and deploying advanced AI, machine learning, and large language model solutions across diverse industries. Highly skilled in building and operationalizing NLP applications, generative AI, and predictive analytics using Python, SQL, and modern cloud platforms. Proven ability to lead teams in designing scalable AI systems, crafting impactful data visualizations, and translating complex data into actionable business insights. Adept at leveraging LLMs and state-of-the-art AI techniques to reveal patterns, automate processes, and drive strategic decision-making.
+Data science leader skilled in developing and deploying advanced AI, machine learning, and large language model solutions across a variety of industries. Skilled in building and operationalizing NLP applications, generative AI, and predictive analytics using Python, SQL, and modern cloud platforms. Motivated problem solver with a hacker mentality who thrives on transforming complex data challenges into real-world solutions that make an impact.
 
 Work experience
 ======
