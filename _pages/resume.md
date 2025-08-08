@@ -14,6 +14,7 @@ Work experience
 **Security Benefit - Principal Data Scientist (September 2024 - Present)**
 * Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
 * Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns.
+* Designed and deployed an LLM-powered analytics assistant leveraging LangChain, AWS Bedrock, and DataRobot to facilitate conversational EDA and data querying, enhancing the speed and effectiveness of analytics workflows.
 * Developed predictive models using Python and XGBoost to forecast financial advisor propensity to sell specific products, resulting in measurable improvements in marketing efficiency and conversion rates.
 * Built an AI-powered call analytics platform utilizing call center data and audio transcripts to provide actionable insights into call center performance; implemented sentiment analysis and call summarization models using HuggingFace, PyTorch, and DistilRoberta.
 * Led the evaluation and adoption of an end-to-end data science platform (DataRobot), employing SQL and Python to extract, transform, and analyze financial advisor sales data for strategic decision-making.
