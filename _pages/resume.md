@@ -44,6 +44,8 @@ Work experience
 **Occidental/Anadarko Petroleum Corporation - Senior Geophysicist (May 2014 - November 2021)**
 * Collaborated with multidisciplinary teams to evaluate Gulf of Mexico prospects, regularly presenting technical progress and recommendations to executive leadership.
 * Developed a 3D geologic model for a key hydrocarbon asset using seismic, sonar, and well log data, enabling extended production and saving $120M in abandonment costs.
+* Leveraged extracted seismic sensor data and applied Python-based linear regression modeling to accurately predict sand thickness in exploration wells, improving subsurface characterization and drilling efficiency.
+* Applied advanced signal processing techniques to 3D seismic volumes, enhancing subsurface imaging and enabling more accurate identification of key geologic features.
 * Led technical teams to update geophysical workflows and best practices post-acquisition, ensuring operational consistency and innovation.
 * Authored annual technical reports for federal agencies (SEC, BOEM, BSEE), providing reserve justifications and insights into geoscience methodologies.
 * Orchestrated a $4M federal lease investment project by synthesizing multi-sensor data and conducting Monte Carlo simulations to assess risk and economics.
