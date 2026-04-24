@@ -17,6 +17,7 @@ Work experience
 * Drive enterprise-wide AI strategy in partnership with executive leadership, aligning AI and data science initiatives with organizational priorities
 * Design and deploy multi-agent AI systems that autonomously ingest, classify, and respond to customer questions, reducing manual handling and improving response efficiency
 * Build AI-powered tools for senior leadership, including an executive intelligence Slack app that delivers curated news and strategic insights
+* Establish production-grade ML infrastructure using Cookiecutter, SageMaker, MLflow, and Git CI/CD pipelines, standardizing model training, deployment, and monitoring at scale across the team
 * Champion data literacy across the organization, creating frameworks to help business stakeholders make informed, data-driven decisions
 * Establish AI governance standards and best practices to ensure ethical, responsible, and human-centered deployment of AI solutions
 * Drive adoption of open source tooling and frameworks to reduce vendor dependency and maintain architectural flexibility
@@ -27,7 +28,6 @@ Work experience
 * Designed and deployed an LLM-powered analytics assistant leveraging LangChain, AWS Bedrock, and DataRobot to facilitate conversational EDA and data querying, enhancing the speed and effectiveness of analytics workflows
 * Developed predictive models using Python and XGBoost to forecast financial advisor propensity to sell specific products, resulting in measurable improvements in marketing efficiency and conversion rates
 * Built an AI-powered call analytics platform utilizing call center data and audio transcripts to provide actionable insights into call center performance; implemented sentiment analysis and call summarization models using HuggingFace, PyTorch, and DistilRoberta
-* Led the evaluation and adoption of an end-to-end data science platform (DataRobot), employing SQL and Python to extract, transform, and analyze financial advisor sales data for strategic decision-making
 * Collaborated with HR and leadership to define the data scientist role, review applications, and conduct interviews, contributing to the growth and capability of the data science team
 
 **ThinkOnward - Senior Data Scientist (May 2023 - September 2024)**
