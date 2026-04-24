@@ -14,8 +14,15 @@ Work experience
 **Security Benefit**
 
 *Director, AI & Data Science (January 2026 - Present)*
-* test
-* test
+* Built and scaled the AI and data science organization from the ground up, hiring AI engineers and senior data scientists to form a high-performing, cross-functional team
+* Partner with teams across marketing, operations, actuarial, and sales to identify high-impact AI use cases and deliver solutions aligned to business objectives
+* Drove enterprise-wide AI strategy in partnership with executive leadership, aligning AI and data science initiatives with organizational priorities
+* Designed and deployed a multi-agent AI system that autonomously ingests, classifies, and responds to customer questions, reducing manual handling and improving response efficiency
+* Built an AI-powered news and executive intelligence Slack app, delivering curated insights to senior leadership to support strategic decision-making
+* Championed data literacy across the organization, creating frameworks to help business stakeholders make informed, data-driven decisions
+* Established AI governance standards and best practices to ensure ethical, responsible, and human-centered deployment of AI solutions
+* Drove adoption of open source tooling and frameworks to reduce vendor dependency and maintain architectural flexibility across the AI and data science stack
+* Contributed to VP-level hiring by participating in the recruitment and evaluation of the Vice President of Innovation
   
 *Principal Data Scientist (September 2024 - December 2025)*
 * Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
