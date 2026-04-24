@@ -7,11 +7,14 @@ author_profile: true
 ---
 
 
-Experienced data science leader with a track record of developing and deploying AI, machine learning, and large language model solutions across a range of industries. Skilled in building and operationalizing natural language processing applications, generative AI, and predictive analytics using Python, SQL, and modern cloud platforms. Brings a hands-on, hacker mentality to problem solving, with a focus on turning complex data challenges into practical, high-impact solutions.
+Results-driven AI and data science leader with a track record of building high-performing teams and embedding AI as a strategic capability across organizations. Passionate about driving data literacy so that every level of an organization can make informed, data-driven decisions. Believes AI should augment people, not replace them. Committed to open source foundations that keep organizations flexible, innovative, and in control of their own technology future.
 
 Work experience
 ======
-**Security Benefit - Principal Data Scientist (September 2024 - Present)**
+**Security Benefit**
+*Director, AI & Data Science (January 2026 - Present)*
+* 
+*Principal Data Scientist (September 2024 - December 2025)*
 * Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
 * Drove AI strategy by collaborating with executive management to identify high-impact AI and ML use cases, evaluate project feasibility, and advise on tooling decisions, resulting in a prioritized backlog that aligns AI initiatives with business objectives.
 * Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns.
