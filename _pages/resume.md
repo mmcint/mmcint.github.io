@@ -12,25 +12,23 @@ Results-driven AI and data science leader with a track record of building high-p
 Work experience
 ======
 **Security Benefit - Director, AI & Data Science (January 2026 - Present)**
-* Built and scaled the AI and data science organization from the ground up, hiring AI engineers and senior data scientists to form a high-performing, cross-functional team
+* Build and scale the AI and data science organization from the ground up, hiring AI engineers and senior data scientists to form a high-performing, cross-functional team
 * Partner with teams across marketing, operations, actuarial, and sales to identify high-impact AI use cases and deliver solutions aligned to business objectives
-* Drove enterprise-wide AI strategy in partnership with executive leadership, aligning AI and data science initiatives with organizational priorities
-* Designed and deployed a multi-agent AI system that autonomously ingests, classifies, and responds to customer questions, reducing manual handling and improving response efficiency
-* Built an AI-powered news and executive intelligence Slack app, delivering curated insights to senior leadership to support strategic decision-making
-* Championed data literacy across the organization, creating frameworks to help business stakeholders make informed, data-driven decisions
-* Established AI governance standards and best practices to ensure ethical, responsible, and human-centered deployment of AI solutions
-* Drove adoption of open source tooling and frameworks to reduce vendor dependency and maintain architectural flexibility across the AI and data science stack
-* Contributed to VP-level hiring by participating in the recruitment and evaluation of the Vice President of Innovation
+* Drive enterprise-wide AI strategy in partnership with executive leadership, aligning AI and data science initiatives with organizational priorities
+* Design and deploy multi-agent AI systems that autonomously ingest, classify, and respond to customer questions, reducing manual handling and improving response efficiency
+* Build AI-powered tools for senior leadership, including an executive intelligence Slack app that delivers curated news and strategic insights
+* Champion data literacy across the organization, creating frameworks to help business stakeholders make informed, data-driven decisions
+* Establish AI governance standards and best practices to ensure ethical, responsible, and human-centered deployment of AI solutions
+* Drive adoption of open source tooling and frameworks to reduce vendor dependency and maintain architectural flexibility
   
 **Security Benefit - Principal Data Scientist (September 2024 - December 2025)**
-* Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
-* Drove AI strategy by collaborating with executive management to identify high-impact AI and ML use cases, evaluate project feasibility, and advise on tooling decisions, resulting in a prioritized backlog that aligns AI initiatives with business objectives.
-* Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns.
-* Designed and deployed an LLM-powered analytics assistant leveraging LangChain, AWS Bedrock, and DataRobot to facilitate conversational EDA and data querying, enhancing the speed and effectiveness of analytics workflows.
-* Developed predictive models using Python and XGBoost to forecast financial advisor propensity to sell specific products, resulting in measurable improvements in marketing efficiency and conversion rates.
-* Built an AI-powered call analytics platform utilizing call center data and audio transcripts to provide actionable insights into call center performance; implemented sentiment analysis and call summarization models using HuggingFace, PyTorch, and DistilRoberta.
-* Led the evaluation and adoption of an end-to-end data science platform (DataRobot), employing SQL and Python to extract, transform, and analyze financial advisor sales data for strategic decision-making.
-* Collaborated with HR and leadership to define the data scientist role, review applications, and conduct interviews, contributing to the growth and capability of the data science team.
+* Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency
+* Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns
+* Designed and deployed an LLM-powered analytics assistant leveraging LangChain, AWS Bedrock, and DataRobot to facilitate conversational EDA and data querying, enhancing the speed and effectiveness of analytics workflows
+* Developed predictive models using Python and XGBoost to forecast financial advisor propensity to sell specific products, resulting in measurable improvements in marketing efficiency and conversion rates
+* Built an AI-powered call analytics platform utilizing call center data and audio transcripts to provide actionable insights into call center performance; implemented sentiment analysis and call summarization models using HuggingFace, PyTorch, and DistilRoberta
+* Led the evaluation and adoption of an end-to-end data science platform (DataRobot), employing SQL and Python to extract, transform, and analyze financial advisor sales data for strategic decision-making
+* Collaborated with HR and leadership to define the data scientist role, review applications, and conduct interviews, contributing to the growth and capability of the data science team
 
 **ThinkOnward - Senior Data Scientist (May 2023 - September 2024)**
 * Partnered with clients to define business objectives and translate them into actionable machine learning challenges, delivering insights and solutions via interactive dashboards built with Plotly Dash and Streamlit.
