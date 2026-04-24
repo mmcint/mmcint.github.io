@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Mike McIntire, and I appreciate you taking the time to check out my personal website. I’m a geoscientist by education who transitioned into data science. This website highlights my journey, skills, and accomplishments in the field.
+Hi, I'm Mike McIntire, an AI and data science leader based in Kansas City. I build high-performing teams and embed AI as a strategic capability across organizations.
 
-My career began as a geophysicist, where I built three-dimensional models of the Earth using advanced quantitative methods. During this time, I developed a growing interest in Python programming and machine learning. What started as a curiosity turned into a passion, as I began acquiring coding skills and exploring the potential of machine learning to solve complex problems.
+My career started in geophysics, where I developed a deep appreciation for using data to solve complex, real-world problems. That foundation led me to make a deliberate pivot into data science, and over the past five years I've moved from individual contributor to director, building a high-performing AI and data science organization.
 
-The pandemic presented a unique opportunity for self-growth. After exhausting the Netflix catalog, I decided to dive deeper into data science and enrolled in a comprehensive data science bootcamp. This experience supercharged my learning, and the projects you’ll find here represent work I completed as part of the bootcamp. They serve as an early representation of my data science skills, so no judgment please!
+I'm passionate about data literacy, ethical and human-centered AI, and open source technology. I believe AI works best when it augments people, not replaces them, and when the entire organization understands and trusts the data behind it.
 
-Since transitioning into data science, I’ve had the privilege of working with several fascinating companies, applying my skills to tackle diverse challenges. This portfolio includes not only projects from my bootcamp but also select work from my professional experiences, demonstrating my capabilities in real-world scenarios.
+This site highlights my technical work, open source contributions, and professional journey.
 
 # My Open Source Projects
 During my time at ThinkOnward, I had the opportunity to work on numerous innovative projects. We were able to open source some of the projects, including the Geophysical Foundation Model (GFM). This is an innovative model that builds upon the ViT MAE architecture, but masks geophysical traces, rather than pixels.
