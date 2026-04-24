@@ -72,34 +72,17 @@ Education
 * B.S. in Geoscience, Kansas State University, 2012
 * M.S. in Geoscience, Kansas State University, 2014
 
-Certifications
+Skills & Tools
 ======
-* State of Texas Licensed Professional Geoscientist (#15087)
-  
-Skills
-======
-* Python
-* SQL
-* Machine Learning
-* Deep Learning
-* LLMs
-* Generative AI
-* Image Processing
-* Synthetic Data Generation
-* Reporting/Analytics
-* Geology
-* Geophysics
-* Seismic Interpretation
-* Seismic Inversion
 
-Tools
-======
-* AWS SageMaker
-* Snowflake
-* PowerBI
-* Git
+* **Languages:** Python, SQL, SAS
+* **ML/AI:** Machine Learning, Deep Learning, LLMs, Generative AI, NLP, Image Processing, Synthetic Data Generation
+* **Frameworks:** LangChain, HuggingFace, PyTorch, XGBoost, MLflow
+* **Cloud & Infrastructure:** AWS (SageMaker, Bedrock, Batch), Snowflake, Git, CI/CD
+* **Analytics & Visualization:** DataRobot, PowerBI, Alteryx, Plotly Dash, Streamlit
+* **Domain:** Geology, Geophysics, Seismic Interpretation, Seismic Inversion, ArcGIS, GeoPandas
 
 Service and leadership
 ======
 * Mentor - Big Brothers Big Sisters
-* Maintainer - Awesome Open Geoscience Repo
+* Maintainer - Awesome Open Geoscience GitHub Repository
