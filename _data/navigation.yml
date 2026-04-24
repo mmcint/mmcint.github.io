@@ -8,8 +8,8 @@ main:
   - title: "My Resume"
     url: /resume/
 
-# - title: "Waiver Raiders"
-#   url: /waiver-raider/    
+  - title: "Waiver Raider Fantasy Analytics"
+    url: https://waiver-raider.streamlit.app
 
 #   - title: "Teaching"
 #     url: /teaching/    
