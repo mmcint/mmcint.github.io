@@ -11,9 +11,7 @@ Results-driven AI and data science leader with a track record of building high-p
 
 Work experience
 ======
-**Security Benefit**
-
-*Director, AI & Data Science (January 2026 - Present)*
+**Security Benefit - Director, AI & Data Science (January 2026 - Present)**
 * Built and scaled the AI and data science organization from the ground up, hiring AI engineers and senior data scientists to form a high-performing, cross-functional team
 * Partner with teams across marketing, operations, actuarial, and sales to identify high-impact AI use cases and deliver solutions aligned to business objectives
 * Drove enterprise-wide AI strategy in partnership with executive leadership, aligning AI and data science initiatives with organizational priorities
@@ -24,7 +22,7 @@ Work experience
 * Drove adoption of open source tooling and frameworks to reduce vendor dependency and maintain architectural flexibility across the AI and data science stack
 * Contributed to VP-level hiring by participating in the recruitment and evaluation of the Vice President of Innovation
   
-*Principal Data Scientist (September 2024 - December 2025)*
+**Security Benefit - Principal Data Scientist (September 2024 - December 2025)**
 * Lead a cross-functional team of data scientists to design and deploy machine learning and AI solutions company-wide, driving innovation and operational efficiency.
 * Drove AI strategy by collaborating with executive management to identify high-impact AI and ML use cases, evaluate project feasibility, and advise on tooling decisions, resulting in a prioritized backlog that aligns AI initiatives with business objectives.
 * Engineered unsupervised ML algorithms to construct detailed financial advisor profiles by integrating third-party data and aggregated sales statistics, significantly enhancing the precision of targeted marketing campaigns.
