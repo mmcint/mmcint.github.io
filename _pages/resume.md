@@ -39,13 +39,13 @@ Work experience
 * Increased productivity for Shell scientists by 25% by creating a Python script to cluster thin section images and automatically filter out-of-focus samples, streamlining image analysis workflows.
 
 
-**Commerce Bank - Data Scientist (October 2022 - May 2023)**
+**Commerce Bank - Senior Data Scientist (October 2022 - May 2023)**
 * Managed stakeholder relationships with fraud teams, delivering clear and actionable updates to primary business leaders.
 * Developed a PowerBI model performance dashboard that enabled the consumer fraud team to identify $2M in fraudulent transactions; optimized the model’s F1 score to reduce false positives and negatives.
 * Collaborated with the consumer credit team in an agile environment to build a credit card acquisition response model, increasing response rates by 30%.
 * Extracted and transformed consumer credit data from SQL databases, generating weekly SAS reports to keep stakeholders informed and drive data-driven decisions.
     
-**Farmers Insurance - Data Scientist (November 2021 - October 2022)**
+**Farmers Insurance - Senior Data Scientist (November 2021 - October 2022)**
 * Increased profitability of the business insurance portfolio by identifying high wildfire risk policies using ArcGIS and visualizing insights with PowerBI.
 * Built and tested policy pricing models in AWS SageMaker using Python and XGBoost; collaborated with team members via GitHub for code sharing and review.
 * Designed and implemented ETL pipelines in Alteryx to extract policy data from Snowflake SQL to PowerBI, leveraging DAX and PowerQuery for data cleaning and transformation.
