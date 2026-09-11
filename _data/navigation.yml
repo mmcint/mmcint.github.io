@@ -8,11 +8,11 @@ main:
   - title: "My Resume"
     url: /resume/
 
-  - title: "Waiver Raider Fantasy Analytics"
-    url: https://waiver-raider.streamlit.app
+#  - title: "Waiver Raider Fantasy Analytics"
+#    url: https://waiver-raider.streamlit.app
 
-  - title: "Stat Cats K-State Dashboard"
-    url: https://stat-cats.streamlit.app
+#  - title: "Stat Cats K-State Dashboard"
+#    url: https://stat-cats.streamlit.app
 
 #   - title: "Teaching"
 #     url: /teaching/    
