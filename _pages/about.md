@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "About Me"
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -16,22 +16,41 @@ I'm passionate about data literacy, ethical and human-centered AI, and open sour
 
 This site highlights my technical work, open source contributions, and professional journey.
 
-# My Open Source Projects
-During my time at ThinkOnward, I had the opportunity to work on numerous innovative projects. We were able to open source some of the projects, including the Geophysical Foundation Model (GFM). This is an innovative model that builds upon the ViT MAE architecture, but masks geophysical traces, rather than pixels.
+# Selected Open Source Work
 
-I also worked on the Challenges platform, designing geodata science challenges for our diverse and innovative community of experts.
+During my time at ThinkOnward, I helped build and open source projects at the intersection of AI, geoscience, and scientific computing.
 
-[![Geophysical Foundation Model](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=geophysical-foundation-model&show_owner=true)](https://github.com/thinkonward/geophysical-foundation-model)
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin:24px 0 40px;">
 
-[![Lyra Graphtool](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=lyra_graphtool&show_owner=true)](https://github.com/thinkonward/lyra_graphtool)
+<a href="https://github.com/thinkonward/geophysical-foundation-model" style="display:block;padding:20px;border:1px solid #ddd;border-radius:8px;text-decoration:none;color:inherit;">
+<strong>Geophysical Foundation Model</strong><br>
+<span>A foundation model that applies masked autoencoding to seismic data.</span><br><br>
+<span style="color:#268bd2;font-weight:600;">View on GitHub →</span>
+</a>
 
-[![Section Seeker](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=section-seeker&show_owner=false)](https://github.com/thinkonward/section-seeker)
+<a href="https://github.com/thinkonward/lyra_graphtool" style="display:block;padding:20px;border:1px solid #ddd;border-radius:8px;text-decoration:none;color:inherit;">
+<strong>Lyra Graph Tool</strong><br>
+<span>A Python tool for optimizing constrained paths between nodes on a graph.</span><br><br>
+<span style="color:#268bd2;font-weight:600;">View on GitHub →</span>
+</a>
 
-[![Challenges](https://github-readme-stats.vercel.app/api/pin/?username=thinkonward&repo=challenges&show_owner=false)](https://github.com/thinkonward/challenges)
+<a href="https://github.com/thinkonward/section-seeker" style="display:block;padding:20px;border:1px solid #ddd;border-radius:8px;text-decoration:none;color:inherit;">
+<strong>Section Seeker</strong><br>
+<span>A neural-network workflow for finding similar seismic sections.</span><br><br>
+<span style="color:#268bd2;font-weight:600;">View on GitHub →</span>
+</a>
 
-# My HuggingFace🤗  Contributions
+<a href="https://github.com/thinkonward/challenges" style="display:block;padding:20px;border:1px solid #ddd;border-radius:8px;text-decoration:none;color:inherit;">
+<strong>ThinkOnward Challenges</strong><br>
+<span>Starter notebooks and community solutions for geoscience and energy challenges.</span><br><br>
+<span style="color:#268bd2;font-weight:600;">View on GitHub →</span>
+</a>
+
+</div>
+
+# Hugging Face Contributions
+
 * [Geophysical Foundation Model](https://huggingface.co/thinkonward/geophysical-foundation-model)
 * [ThinkOnward Challenges](https://huggingface.co/thinkonward/challenges)
-* [Section Seeker - Large](https://huggingface.co/thinkonward/section-seeker-large-16)
-* [Section Seeker - Base](https://huggingface.co/thinkonward/section-seeker-base-16)
-
+* [Section Seeker Large](https://huggingface.co/thinkonward/section-seeker-large-16)
+* [Section Seeker Base](https://huggingface.co/thinkonward/section-seeker-base-16)
